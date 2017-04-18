@@ -41,3 +41,7 @@ a {
 p {
   text-align: center;
 }
+
+.footer {
+  text-align: right;
+}
